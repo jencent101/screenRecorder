@@ -5,6 +5,9 @@ from numpy.core.numeric import True_
 from win32api import GetSystemMetrics
 import datetime
 
+author = "Jencent Dizon"
+link = "https:github.com/I-am-Programmer-101"
+print("Author:", author, "Link:",link)
 
 width = GetSystemMetrics(0)
 height = GetSystemMetrics(1)
