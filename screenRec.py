@@ -7,7 +7,7 @@ import datetime
 
 author = "Jencent Dizon"
 link = "https://github.com/I-am-Programmer-101"
-print("Author:", author, "Link:",link)
+print("Author:", author, "\t\tLink:",link)
 
 width = GetSystemMetrics(0)
 height = GetSystemMetrics(1)
